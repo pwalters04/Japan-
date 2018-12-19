@@ -69,7 +69,13 @@ $(function() {
   });
 });
 
+  $('#SignUp').click(function(e) {
+    //  $('.modal-dialog').addClass('close-modal');
+    $('.close-modal').trigger('click');
+  });
+
 /*When clicking on Full hide fail/success boxes */
 $('#name').focus(function() {
   $('#success').html('');
 });
+
