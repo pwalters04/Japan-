@@ -1,36 +1,36 @@
-# [Start Bootstrap - Agency](https://startbootstrap.com/template-overviews/agency/)
+# [ETA-Tokyo](#)
 
-[Agency](https://startbootstrap.com/template-overviews/agency/) is a one page agency portfolio theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). This theme features several content sections, a responsive portfolio grid with hover effects, full page portfolio item modals, a responsive timeline, and a working PHP contact form.
+
+[ETA-Tokyo](#) is a signle page site with a [Bootstrap](http://getbootstrap.com/) theme, started with a workable tmeplate from [Start Bootstrap](http://startbootstrap.com/). This theme features several content sections, a responsive single page grid with hover effects, full page item modals, a responsive timeline, and a working PHP contact form.
 
 ## Preview
-
-[![Agency Preview](https://startbootstrap.com/assets/img/templates/agency.jpg)](https://blackrockdigital.github.io/startbootstrap-agency/)
-
-**[View Live Preview](https://blackrockdigital.github.io/startbootstrap-agency/)**
 
 ## Status
 
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/LICENSE)
 [![npm version](https://img.shields.io/npm/v/startbootstrap-agency.svg)](https://www.npmjs.com/package/startbootstrap-agency)
-[![Build Status](https://travis-ci.org/BlackrockDigital/startbootstrap-agency.svg?branch=master)](https://travis-ci.org/BlackrockDigital/startbootstrap-agency)
+[![CircleCI - Build Status](https://circleci.com/gh/pwalters04/Japan-/tree/master.svg?style=svg)](https://circleci.com/gh/pwalters04/Japan-/tree/master)
 [![dependencies Status](https://david-dm.org/BlackrockDigital/startbootstrap-agency/status.svg)](https://david-dm.org/BlackrockDigital/startbootstrap-agency)
 [![devDependencies Status](https://david-dm.org/BlackrockDigital/startbootstrap-agency/dev-status.svg)](https://david-dm.org/BlackrockDigital/startbootstrap-agency?type=dev)
 
 ## Download and Installation
 
-To begin using this template, choose one of the following options to get started:
+To begin using the starting template, choose the following to get started:
 * [Download the latest release on Start Bootstrap](https://startbootstrap.com/template-overviews/agency/)
-* Install via npm: `npm i startbootstrap-agency`
-* Clone the repo: `git clone https://github.com/BlackrockDigital/startbootstrap-agency.git`
-* [Fork, Clone, or Download on GitHub](https://github.com/BlackrockDigital/startbootstrap-agency)
+
+## Run ETA-Tykyo App - Basics
+* Install via npm: `npm i `
+* Clone the repo: `git clone https://github.com/pwalters04/Japan-`
+* [Fork, Clone, or Download on GitHub](https://github.com/pwalters04/Japan-)
 
 ## Usage
 
-### Basic Usage
+### Current Status(12/19/2019)
 
-After downloading, simply edit the HTML and CSS files included with the template in your favorite text editor to make changes. These are the only files you need to worry about, you can ignore everything else! To preview the changes you make to the code, you can open the `index.html` file in your web browser.
+* A clickable mock-up
+    * To preview the moock-up, you can open the `index.html` file in your web browser.
 
-### Advanced Usage
+### Run ETA-Tykyo App - Advanced
 
 After installation, run `npm install` and then run `gulp dev` which will open up a preview of the template in your default browser, watch for changes to core template files, and live reload the browser when changes are saved. You can view the `gulpfile.js` to see which tasks are included with the dev environment.
 
@@ -44,17 +44,16 @@ After installation, run `npm install` and then run `gulp dev` which will open up
 
 You must have npm and Gulp installed globally on your machine in order to use these features.
 
-## Troubleshooting and Help
-
-Start Bootstrap has a public Slack channel which is a great place to ask questions about this template and all things related to Start Bootstrap.
-
-**[Click here to join the Slack channel!](https://startbootstrap-slack.herokuapp.com/)**
-
-## Bugs and Issues
-
-Have a bug or an issue with this template? [Open a new issue](https://github.com/BlackrockDigital/startbootstrap-agency/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](http://startbootstrap.com/template-overviews/agency/).
-
 ## About
+
+### About - Project
+
+This project is being built on [Software Enginerring Principals](https://www.ieee.org/membership-catalog/productdetail/showProductDetailPage.html?product=CMYSE700)  
+
+* Product Owner [Francesca Conate](#)
+* Software Enigneer [Paris N. Walters](https://www.linkedin.com/in/pariswalters)
+
+### About - The Starting Template
 
 Start Bootstrap is an open source library of free Bootstrap templates and themes. All of the free templates and themes on Start Bootstrap are released under the MIT license, which means you can use them for any purpose, even for commercial projects.
 
