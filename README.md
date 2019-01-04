@@ -18,7 +18,7 @@
 To begin using the starting template, choose the following to get started:
 * [Download the latest release on Start Bootstrap](https://startbootstrap.com/template-overviews/agency/)
 
-## Run ETA-Tykyo App - Basics
+## Run ETA-Tokyo App - Basics
 * Install via npm: `npm i `
 * Clone the repo: `git clone https://github.com/pwalters04/Japan-`
 * [Fork, Clone, or Download on GitHub](https://github.com/pwalters04/Japan-)
@@ -30,7 +30,7 @@ To begin using the starting template, choose the following to get started:
 * A clickable mock-up
     * To preview the moock-up, you can open the `index.html` file in your web browser.
 
-### Run ETA-Tykyo App - Advanced
+### Run ETA-Tokyo App - Advanced
 
 After installation, run `npm install` and then run `gulp dev` which will open up a preview of the template in your default browser, watch for changes to core template files, and live reload the browser when changes are saved. You can view the `gulpfile.js` to see which tasks are included with the dev environment.
 
